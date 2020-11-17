@@ -1,0 +1,41 @@
+
+state={
+	id=2
+	name="Sand_Island"
+	provinces={
+11184
+}
+    
+	manpower=1000
+	buildings_max_level_factor=1.000
+	state_category=small_island
+
+	resources = {
+		steel = 0
+		aluminium = 0
+		oil = 0
+		tungsten = 0
+		chromium = 0
+		rubber = 0
+	}
+	history={
+		owner = DEB
+		add_core_of = DEB		
+		buildings = {
+			#infrastructure = 5
+            #air_base = 5
+            #anti_air_building = 4
+            #radar_staton = 5
+			#arms_factory = 1
+			#industrial_complex = 1
+            #dockyard = 0
+            # synthetic_refinery = 0
+            # fuel_silo = 1
+            #rocket_site = 0
+            #nuclear_reactor = 0
+            }
+        victory_points = {
+        11184 10
+        }
+	}
+}

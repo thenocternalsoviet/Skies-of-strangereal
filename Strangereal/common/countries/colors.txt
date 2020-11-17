@@ -1,0 +1,156 @@
+Debug Nation
+DEB = {
+	color = rgb { 0  0  0 }
+	color_ui = rgb { 0  0  0 }
+ }
+Belka
+ BLK = {
+	color = rgb { 204, 163, 0 }
+	color_ui = rgb { 204, 163, 0 }
+ }
+Osea
+OSE = {
+	 color = rgb { 20 133 237 }
+	 color_ui = rgb { 87 160 255 }
+ }
+ #Ustio
+ UST = {
+	 color = rgb { 200 0 0 }
+	 color_ui = rgb { 205 0 0 }
+}
+Recta
+ RTA = {
+	 color = rgb { 0 150 0 }
+	 color_ui = rgb { 0 155 0 }
+}
+Gebet
+ GEB = {
+	 color = rgb { 160 160 0 }
+	 color_ui = rgb { 165 165 0 }
+}
+FATO
+ FAT = {
+	 color = rgb { 150 150 150 }
+	 color_ui = rgb { 155 155 155 }
+}
+Ratio
+ RTO = {
+	 color = rgb { 100 150 100 }
+	 color_ui = rgb { 100 155 100 }
+}
+# #Sapin
+# SAP = {
+	# color = rgb { 0 95 155 }
+	# color_ui = rgb { 0 100 160 }
+# }
+# #Wielvakia
+# WVK = {
+	# color = rgb { 220 20 60 }
+	# color_ui = rgb { 225 25 65 }
+# }
+# #Nordlands
+# NRL = {
+	# color = rgb { 25 25 200 }
+	# color_ui = rgb { 30 30 205 }
+# }
+# #Wellow
+# WEL = {
+	# color = rgb { 250 250 250 }
+	# color_ui = rgb { 255 255 255 }
+# }
+# #Erusea
+# ERU = {
+	# color = rgb { 207 88 52 }
+	# color_ui = rgb { 215 94 60 }
+# }
+# #Yuktobania
+# YUK = {
+	# color = rgb { 220 31 38 }
+	# color_ui = rgb { 225 36 43 }
+# }
+# #Verusa
+# VER = {
+	# color = rgb { 148 205 135 }
+	# color_ui = rgb { 148 205 135 }
+# }
+# #Clavis
+# CLV = {
+	# color = rgb { 232 198 78 }
+	# color_ui = rgb { 232 198 78 }
+# }
+# #North Point
+# NRP = {
+	# color = rgb { 64 64 250 }
+	# color_ui = rgb { 64 64 250 }
+# }    
+# #San Salvacion
+# SAN = {
+	# color = rgb { 0 100 255 }
+	# color_ui = rgb { 0 100 255 }
+# }    
+# #Amber
+# AMB = {
+	# color = rgb { 121 188 77 }
+	# color_ui = rgb { 121 188 77 }
+# }
+# #Ugellas
+# UGL = {
+	# color = rgb { 59 197 169 }
+	# color_ui = rgb { 59 197 169 }
+# }    
+# #Delarus
+# DEL = {
+	# color = rgb { 75 200 45 }
+	# color_ui = rgb { 75 200 45 }
+# }     
+# #FCU
+# FCU = {
+	# color = rgb { 0 175 250 }
+	# color_ui = rgb { 0 180 255 }
+# }
+# #Aurelia
+# AUR = {
+	# color = rgb { 63 150 189 }
+	# color_ui = rgb { 63 150 189 }
+# }
+# #Leasath
+# LEA = {
+	# color = rgb { 32 82 45 }
+	# color_ui = rgb { 32 82 45 }
+# }
+# #Perbla
+# PRB = {
+	# color = rgb { 110 90 60 }
+	# color_ui = rgb { 110 90 60 }
+# }
+# #Sotoa
+# SOT = {
+	# color = rgb { 250 250 0 }
+	# color_ui = rgb { 250 250 0 }
+# }
+# #Emmeria
+# EMM = {
+	# color = rgb { 51 83 117 }
+	# color_ui = rgb { 51 83 117 }
+# }
+# #Estovakia
+# ESV = {
+	# color = rgb { 160 0 0 }
+	# color_ui = rgb { 160 0 0 }
+# }
+# #Nordennavic
+# NRC = {
+	# color = rgb { 100 64 200 }
+	# color_ui = rgb { 100 64 200 }
+# }
+
+
+
+
+
+
+
+
+
+
+

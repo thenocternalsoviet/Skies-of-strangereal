@@ -1,0 +1,114 @@
+From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
+3649;4458;sea;15390;-1;-1;-1;-1;;Cresent islands
+6971;2248;sea;13638;-1;-1;-1;-1;;Cresent islands
+7116;7071;sea;16057;-1;-1;-1;-1;;Belka Islands
+7116;11142;sea;16073;-1;-1;-1;-1;;Belka Aurlic Islands
+11142;11144;sea;12068;-1;-1;-1;-1;;Belka Aurlic Islands
+11144;11141;sea;12068;-1;-1;-1;-1;;Belka Aurlic Islands
+2657;5360;sea;11949;-1;-1;-1;-1;;Belka Aurlic Islands
+7269;11146;sea;15279;-1;-1;-1;-1;;Belka Aurlic Islands
+11140;11139;sea;13335;-1;-1;-1;-1;;Belka Aurlic Islands
+7044;11138;sea;13335;-1;-1;-1;-1;;Belka Aurlic Islands
+11137;11138;sea;15390;-1;-1;-1;-1;;Belka Aurlic Islands
+11140;7044;sea;13335;-1;-1;-1;-1;;Belka Aurlic Islands
+11146;5360;sea;15279;-1;-1;-1;-1;;Belka Aurlic Islands
+11141;11143;sea;12068;-1;-1;-1;-1;;Belka Aurlic Islands
+7205;7219;sea;14514;-1;-1;-1;-1;;Osea Aurlic Islands
+5800;7054;sea;16047;-1;-1;-1;-1;;Osea Aurlic Islands
+7141;11145;sea;14317;-1;-1;-1;-1;;Osea Aurlic Islands
+11145;11143;sea;15443;-1;-1;-1;-1;;Osea Aurlic Islands
+11135;3959;sea;14573;-1;-1;-1;-1;;Osea Aurlic Islands
+3776;2285;sea;15986;-1;-1;-1;-1;;Osea Aurlic Islands
+10;1921;sea;15000;-1;-1;-1;-1;;Osea Aurlic Islands
+6836;11133;sea;13488;-1;-1;-1;-1;;Wellow-22
+11133;11132;sea;13488;-1;-1;-1;-1;;Wellow-22
+6487;4995;sea;14923;-1;-1;-1;-1;;Gracemeria Kings bridge
+3148;6789;sea;15967;-1;-1;-1;-1;;Emmeria-31
+3702;6850;sea;13938;-1;-1;-1;-1;;Emmeria-31
+6516;11126;sea;-1;-1;-1;-1;-1;;Emmeria-13
+2754;6139;sea;15122;-1;-1;-1;-1;;Khesed-Nordenavic link
+3425;3565;sea;13508;-1;-1;-1;-1;;Khesed-Nordenavic link
+9482;9566;sea;16328;-1;-1;-1;-1;;Tyler Islands
+11198;9639;sea;13083;-1;-1;-1;-1;;Tyler Islands
+2151;11198;sea;11774;-1;-1;-1;-1;;Tyler Islands
+3074;11197;sea;15288;-1;-1;-1;-1;;Selaputura
+9381;11195;sea;14859;-1;-1;-1;-1;;Selaputura
+11026;11020;sea;13056;-1;-1;-1;-1;;Zealand
+8377;8426;sea;14863;-1;-1;-1;-1;;Lumen-Rutherford crossing
+583;824;sea;14863;-1;-1;-1;-1;;Lumen-Harwood crossing
+8309;8373;sea;16914;-1;-1;-1;-1;;Harwood Canal crossing
+8234;8257;sea;13941;-1;-1;-1;-1;;Harwood Canal crossing
+8125;8173;sea;16912;-1;-1;-1;-1;;Belka-Harwood crossing
+3597;4136;sea;16912;-1;-1;-1;-1;;Belka-Harwood crossing
+7899;3706;sea;13243;-1;-1;-1;-1;;Schayne-GreatLakes crossing
+7899;7906;sea;13243;-1;-1;-1;-1;;Schayne-GreatLakes crossing
+7899;7966;sea;13243;-1;-1;-1;-1;;Schayne-GreatLakes crossing
+7700;4461;sea;15343;-1;-1;-1;-1;;Schayne-GreatLakes crossing
+8382;8423;sea;16209;-1;-1;-1;-1;;Eaglin Straits crossing
+8382;11168;sea;16209;-1;-1;-1;-1;;Eaglin Straits crossing
+11168;11170;sea;16209;-1;-1;-1;-1;;Eaglin Straits crossing
+8274;4166;sea;14862;-1;-1;-1;-1;;Eaglin Straits crossing
+3641;8366;sea;16212;-1;-1;-1;-1;;Eaglin Straits crossing
+8424;11174;sea;14578;-1;-1;-1;-1;;Eaglin Straits crossing
+11174;11171;sea;14578;-1;-1;-1;-1;;Eaglin Straits crossing
+11174;8469;sea;14578;-1;-1;-1;-1;;Eaglin Straits crossing
+8469;8536;sea;14578;-1;-1;-1;-1;;Eaglin Straits crossing
+11172;8477;sea;14345;-1;-1;-1;-1;;Eaglin Straits crossing
+11124;11125;sea;12198;-1;-1;-1;-1;;OSEA-Wellow crossing
+11125;2258;sea;12198;-1;-1;-1;-1;;
+11129;11127;sea;13699;-1;-1;-1;-1;;
+11127;6619;sea;13699;-1;-1;-1;-1;;
+2258;398;sea;14048;-1;-1;-1;-1;;
+6237;2615;sea;15851;-1;-1;-1;-1;;
+6237;2765;sea;15537;-1;-1;-1;-1;;
+1933;1037;sea;12964;-1;-1;-1;-1;;Eaglin Coast crossing
+8549;2300;sea;14863;-1;-1;-1;-1;;Futuro Canal crossing
+6396;11124;sea;12674;-1;-1;-1;-1;;
+737;345;sea;14907;-1;-1;-1;-1;;Estovakia island
+282;11128;sea;12226;-1;-1;-1;-1;;Estovakia island
+11128;11131;sea;11489;-1;-1;-1;-1;;Estovakia island
+715;2915;sea;13466;-1;-1;-1;-1;;Estovakia island
+2106;11120;sea;14594;-1;-1;-1;-1;;Estovakia island
+11120;3458;sea;12128;-1;-1;-1;-1;;Estovakia island
+3907;3513;sea;15846;-1;-1;-1;-1;;Estovakia island
+3458;11122;sea;12128;-1;-1;-1;-1;;Estovakia island
+3991;10489;sea;13214;-1;-1;-1;-1;;Perbla Canal crossing
+2153;1218;sea;16538;-1;-1;-1;-1;;Perbla Canal crossing
+1683;2480;sea;15134;-1;-1;-1;-1;;NP crossing
+5722;3624;sea;11573;-1;-1;-1;-1;;
+10083;10058;sea;12960;-1;-1;-1;-1;;
+11215;11214;sea;16418;-1;-1;-1;-1;;
+11214;3248;sea;16418;-1;-1;-1;-1;;
+10337;11222;sea;14939;-1;-1;-1;-1;;
+11222;2154;sea;16457;-1;-1;-1;-1;;
+11202;9622;sea;14953;-1;-1;-1;-1;;Axel bay island
+11202;4644;sea;14953;-1;-1;-1;-1;;Axel bay island
+11204;11200;sea;16343;-1;-1;-1;-1;;Axel bay
+11200;624;sea;16343;-1;-1;-1;-1;;Axel bay
+11203;9724;sea;16343;-1;-1;-1;-1;;Axel bay
+2310;11148;sea;13085;-1;-1;-1;-1;;Sniders top crossings
+11148;1908;sea;13085;-1;-1;-1;-1;;Sniders top crossings
+11148;11149;sea;14720;-1;-1;-1;-1;;Sniders top crossings
+3878;11149;sea;14720;-1;-1;-1;-1;;Sniders top crossings
+11151;3878;sea;14720;-1;-1;-1;-1;;Sniders top crossings
+3878;11154;sea;16137;-1;-1;-1;-1;;Sniders top crossings
+7652;11157;sea;13725;-1;-1;-1;-1;;Sniders top crossings
+8644;5814;sea;16236;-1;-1;-1;-1;;
+11206;11205;sea;12053;-1;-1;-1;-1;;
+11205;9725;sea;16346;-1;-1;-1;-1;;
+9714;1983;sea;12519;-1;-1;-1;-1;;
+1936;248;sea;16295;-1;-1;-1;-1;;
+5455;9054;sea;15520;-1;-1;-1;-1;;
+9054;2353;sea;15520;-1;-1;-1;-1;;
+9427;4507;sea;16318;-1;-1;-1;-1;;
+10100;10143;sea;13571;-1;-1;-1;-1;;
+4333;11179;sea;13989;-1;-1;-1;-1;;
+11179;11181;sea;13989;-1;-1;-1;-1;;
+11181;8966;sea;13989;-1;-1;-1;-1;;
+11179;11182;sea;13989;-1;-1;-1;-1;;
+11179;4973;sea;13989;-1;-1;-1;-1;;
+11185;4973;sea;13989;-1;-1;-1;-1;;
+4973;9095;sea;13989;-1;-1;-1;-1;;
+11183;11182;sea;13989;-1;-1;-1;-1;;
+11183;2903;sea;13989;-1;-1;-1;-1;;
+11187;9119;sea;13989;-1;-1;-1;-1;;

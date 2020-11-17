@@ -1,0 +1,9 @@
+continents = {
+	Northern_Osea
+	Verusa 
+	South_Osea
+	USEA
+	Sotoa
+	South_Verusa
+	Anea
+}
